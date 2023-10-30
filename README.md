@@ -8,3 +8,6 @@ For this we use :
 - Mage Data Pipeline Tool as ETL.
 - Big query for data warehousing.
 -Looker for data analysis.
+
+I made this project from Darshil Parmar's project
+https://www.youtube.com/watch?v=WpQECq5Hx9g&t=886s&ab_channel=DarshilParmar
